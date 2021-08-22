@@ -1,0 +1,6 @@
+[deps]
+Fairness = "7c232609-d7a1-4356-98a6-13e736dd6dcd"
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+MLJ = "add582a8-e3ab-11e8-2d5e-e98b27df1bc7"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
